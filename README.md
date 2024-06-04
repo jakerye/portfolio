@@ -1,5 +1,33 @@
 # Portfolio
 
+Professional and side project summaries.
+
+**Table of Contents**
+- [Professional Projects](#professional-projects)
+  - [Brightflow AI](#brightflow-ai)
+    - [New Platform Architecture](#new-platform-architecture)
+    - [Banking Data Sync](#banking-data-sync)
+    - [Online Sales Data Parity Investigation](#online-sales-data-parity-investigation)
+    - [UI Components Library](#ui-components-library)
+  - [Leverege](#leverege)
+    - [IoT Device Backend](#iot-device-backend)
+    - [Firmware Over-The-Air Upgrades Backend](#firmware-over-the-air-upgrades-backend)
+  - [MIT Media Lab](#mit-media-lab)
+    - [Plant Research Device Control Software](#plant-research-device-control-software)
+    - [Light Controller Software](#light-controller-software)
+    - [Light Controller Printed Circuit Board](#light-controller-printed-circuit-board)
+- [Side Projects: Software](#side-projects-software)
+  - [UnicornTales](#unicorntales)
+  - [TandyGram](#tandygram)
+- [Side Projects: Construction](#side-projects-construction)
+  - [Backyard Garden](#backyard-garden)
+  - [Basement Bathroom](#basement-bathroom)
+  - [Kitchen Bench](#kitchen-bench)
+  - [Porch Repair](#porch-repair)
+  - [Master Closet](#master-closet)
+  - [Kitchen Pantry](#kitchen-pantry)
+  - [Underdeck Roof](#underdeck-roof)
+
 ## Professional Projects
 
 ### Brightflow AI
