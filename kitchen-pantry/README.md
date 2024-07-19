@@ -31,7 +31,6 @@
 ## Install interior drywall and overhead light
 ![](seal-ext-door-drywall.jpg)
 ![](overhead-light.jpg)
-![](interior-drywall.jpg)
 
 ## Bring floor up to same level
 ![](level-floor-1.jpg)
